@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="79400" started-at="2018-04-07T15:52:54Z" finished-at="2018-04-07T15:54:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="79400" started-at="2018-04-07T15:52:54Z" finished-at="2018-04-07T15:54:13Z">
+      <class name="seleniumweek2day1classwork.CreateLeadDataProvider">
+        <test-method status="PASS" signature="createlead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:seleniumweek2day1classwork.CreateLeadDataProvider@1928643]" name="createlead" duration-ms="42572" started-at="2018-04-07T15:52:54Z" data-provider="fetchdata" finished-at="2018-04-07T15:53:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testleafc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shena]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createlead -->
+        <test-method status="PASS" signature="createlead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:seleniumweek2day1classwork.CreateLeadDataProvider@1928643]" name="createlead" duration-ms="36685" started-at="2018-04-07T15:53:37Z" data-provider="fetchdata" finished-at="2018-04-07T15:54:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testleafa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shalini]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createlead -->
+      </class> <!-- seleniumweek2day1classwork.CreateLeadDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
